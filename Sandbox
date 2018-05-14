@@ -1,0 +1,1 @@
+var nameSelector = document.querySelector('#name')
